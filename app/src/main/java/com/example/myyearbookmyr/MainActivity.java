@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
     {
         Intent i= new Intent(getApplicationContext(), MainActivity2.class);
         startActivity(i);
+        //Remi was here
     }
 }
